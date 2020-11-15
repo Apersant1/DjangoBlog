@@ -12,3 +12,4 @@ class BlogCreateView(CreateView):
     model = Post
     fields = ['title','author','body']
     template_name = 'create post.html'
+# TODO: need create deletePost view!

@@ -1,9 +1,12 @@
 @import "tooltip.css";
 
-
 body {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-size: 18px;
+}
+
+a {
+  color: #c97c23;
 }
 
 header {
